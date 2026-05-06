@@ -24,13 +24,8 @@ I am a **Computer Science Student** passionate about building robust software, e
 
 When I'm not debugging or optimizing queries, you can find me:
 - **Video Editing:** Crafting retro-aesthetic content and transition-heavy AMV-style projects.
-- **Reading:** Currently following "Omniscient Reader's Viewpoint" or keeping up with the latest Indonesian cinema.
 - **Gaming:** Optimizing my setup for FPS games (always on the lookout for the perfect ergonomic mouse).
 
 ---
-
-### 📫 Connect with Me
-
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/muhammad-syarif-sabiqul-khoir-4aba29321]
 
 *"The story is only for the one reader who stays until the very end."*

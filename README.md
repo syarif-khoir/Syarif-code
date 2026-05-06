@@ -6,10 +6,9 @@ I am a **Computer Science Student** passionate about building robust software, e
 
 ### 🚀 Technical Toolkit
 
-- **Languages:** Java, Python, C++, Dart, JavaScript
-- **Frameworks & Tools:** Flutter (Mobile Dev), Java Swing, MVC Architecture
+- **Languages:** Java, Python, C++
+- **Frameworks & Tools:** Java Swing
 - **Databases:** MySQL (ERD Design, Normalization, & CRUD Implementation)
-- **Specializations:** Algorithm Analysis (BFS/DFS), Discrete Mathematics, Logic Gates
 
 ---
 

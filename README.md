@@ -4,7 +4,7 @@ I am a **Computer Science Student** passionate about building robust software, e
 
 ---
 
-### 🚀 Technical Toolkit
+### 🚀 Technical Toolkits
 
 - **Languages:** Java, Python, C++
 - **Frameworks & Tools:** Java Swing
